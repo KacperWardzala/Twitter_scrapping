@@ -1,4 +1,4 @@
-# Twitter_scrapping
+# Twitter_scraping
 
 ## Description
 This program automates the process of extracting metadata from tweets provided as links in a CSV file. The workflow includes:
